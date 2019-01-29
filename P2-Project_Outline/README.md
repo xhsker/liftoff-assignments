@@ -7,11 +7,18 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Creating a web-based log for each shift of a job to pass along critial, non-critical, and information to 
+each of the on coming shifts. This information will be stored and used to keep track of recurring issues
+
 ### Features
-Include Features here
+Users will log in and will be able to enter the information
+Users will be able to update the data base and read prior entries
+The home page will show the current issues being handled or which need to be addressed
+The data will be stored for future cross reference and documentation
 ### Technologies
-Include Technologies here
+Secure website
+Data storage
+Web development
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+Web design and Web layout
